@@ -1,17 +1,17 @@
 Algoritmo "Imposto de Renda"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Kelly Bispo
-// Descrição   : Imposto de Renda
+// DescriÃ§Ã£o   : Imposto de Renda
 // Autor(a)    : Daniel BATISTA
 // Data atual  : 21/08/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 salario, faixa2, faixa3, faixa4, faixa5, deducao2, deducao3, deducao4, deducao5, resultado  : real
 
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 
 faixa2 <- 0.075
 faixa3 <- 0.15
@@ -101,4 +101,4 @@ function calculaIrrf(salarioMensal){
 }
 
 calculaIrrf(2500);
-
+https://pt.stackoverflow.com/questions/421270/como-criar-uma-m%C3%A1scara-para-moeda-brasileira-com-limite-de-caracteres
